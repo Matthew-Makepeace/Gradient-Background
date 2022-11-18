@@ -1,0 +1,19 @@
+{
+  "name": "gradient-background",
+  "version": "1.0.0",
+  "description": "Background Generator",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matthew-Makepeace/Gradient-Background.git"
+  },
+  "author": "Matthew Makepeace",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Matthew-Makepeace/Gradient-Background/issues"
+  },
+  "homepage": "https://github.com/Matthew-Makepeace/Gradient-Background#readme"
+}
